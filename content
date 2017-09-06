@@ -1,0 +1,100 @@
+<html>
+<head>
+</head>
+<title>
+Content for Kids Kode
+</title>
+<body>
+<--!New-->
+
+
+
+
+<--!Videos-->
+<p>Videos</p>
+<ul>
+<li>Basic Concepts</li>
+<li>Conditionals and Loops</li>
+<li>Arrays</li>
+<li>Classes and Objects</li>
+<li>More Classes</li>
+<li>Exceptions, Lists, Threads & Files</li>
+</ul>
+<--!Basic Concepts-->
+<p>Basic Concepts - Chapter 1</p>
+<p>Intro to Java- Java is a language that is platform independent</p>
+<ul>
+<li>It is portable, robust, and dynamic</li>
+<li>Java is a language you are able to</li>
+<h3>Write Once, Run AnyWhere</h3>
+<p>Java is used to develop apps for</p> 
+<li>Google's Android OS</li>
+<li>Desktop Applications like Media players</li>
+<li>Antivirus Programs</li>
+<li>Web Applications</li>
+<li>Enterprise Applications</li>
+<p>In Java every line of code must be inside of a class. Every application must have a main method. Also, the main must have the keywords: public, and static.</p>
+<h3>The Main Method</h3>
+<p>public static void main(String[] args)</p>
+<li>public: anyone can access it</li>
+<li>static: method can be ran without creating an instance of the class containing the main method</li>
+<li>void: method that doesn't return any value</li>
+<li>main: the name of the method</li>
+<h3>System.out.println("Hello World");</h3>
+<li>The body of the main has to be enclosed in { } curly braces</li>
+<li>println method prints a line of text to the screen</li>
+<p> Semicolons in Java</p>
+<p>In Java, each code statement must end with a semicolon;</p>
+<h3>System.out.println("I am learning Java");<h3>
+<li>you can put any string or line of text inside the " " double quotes.</li>
+</ul>
+<ul><li>Part 1</li>
+<p>Watch Now</p>
+<p>Quiz 1</p>
+<li>Part 2</li>
+<p>Watch Now</p>
+<p>Quiz 2</p>
+<p>Basic Concepts - Chapter 1 Test</p>
+</ul>
+<--!Conditionals and Loops-->
+
+
+
+
+
+<--!Arrays-->
+
+
+
+
+<--!Basic Concepts-->
+
+
+
+
+
+<--!Classes and Objects-->
+
+
+
+<--!More Classes-->
+
+
+
+<--!Exceptions, Lists, Threads & Files-->
+
+
+
+
+
+
+<--!Events-->
+
+
+
+<--!Settings-->
+
+
+</body>
+
+</html>
